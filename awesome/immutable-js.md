@@ -1,6 +1,8 @@
+This list is based on discussion on hackernews (https://news.ycombinator.com/item?id=8107447) and twitter (https://twitter.com/search?q=immutable.js). I've also compiled a list of visual [Resource Cards](http://awesomeport.memect.com/?tag=immutable-js).
+ 
  [![immutable.js](http://img.memect.com/WtpK6GG1ccHGU-rqpZHnZbmBBjs=/400x0/t/f2d773a3a6a4a7f208a3f9831ad4e1e8cd48882dda28e352aba20d53ea31a016)](http://awesomeport.memect.com/?tag=immutable-js)
 
-# Top readings - [Resource Cards](http://awesomeport.memect.com/?tag=immutable-js)
+# Top readings
 
  https://github.com/facebook/immutable-js
 
