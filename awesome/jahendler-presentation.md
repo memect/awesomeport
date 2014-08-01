@@ -4,6 +4,7 @@
  * A couple of featured videos and slides http://u.memect.com/112/?tag=featured+presentation
  * All presentation http://u.memect.com/112/?tag=presentation
 
+
  !["Why the Semantic Web will never work"](http://img.memect.com/qF7p5i8LJPBK5aHnNzDiFQIHYnk=/400x0/t/a99663f68a810442f161c3d60dca99234dc2b20102734cb6faf4992bd7339a1f)
 
 # youtube (11)
