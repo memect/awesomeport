@@ -8,6 +8,8 @@
 # Background: immutable objects
   http://en.wikipedia.org/wiki/Immutable_object
 
+  http://en.wikipedia.org/wiki/Hash_array_mapped_trie
+
   https://www.youtube.com/watch?v=mS264h8KGwk
 
   https://github.com/jackschaedler/goya
