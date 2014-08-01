@@ -1,11 +1,13 @@
-# Summary 
- * 40 slides (19 on slideshare) http://u.memect.com/112/?tag=slides+presentation
- * 17 videos (11 on youtube) http://u.memect.com/112/?tag=video+presentation
- * A couple of featured videos and slides http://u.memect.com/112/?tag=featured+presentation
- * All presentation http://u.memect.com/112/?tag=presentation
+# Overview 
+ * source: http://www.cs.rpi.edu/~hendler/presentations/
+ * 40 slides (19 on slideshare) http://u.memect.com/jahendler/?tag=slides+presentation
+ * 17 videos (11 on youtube) http://u.memect.com/jahendler/?tag=video+presentation
+ * A couple of featured videos and slides http://u.memect.com/jahendler/?tag=featured+presentation
+ * All presentation http://u.memect.com/jahendler/?tag=presentation
 
 
  !["Why the Semantic Web will never work"](http://img.memect.com/qF7p5i8LJPBK5aHnNzDiFQIHYnk=/400x0/t/a99663f68a810442f161c3d60dca99234dc2b20102734cb6faf4992bd7339a1f)
+
 
 # youtube (11)
 http://www.youtube.com/watch?v=GAlB87LgrGg  
@@ -76,3 +78,6 @@ http://www.slideshare.net/jahendler/why-watson-won-a-cognitive-perspective
 * http://www.slideshare.net/jahendler/the-semantic-web-2010-update-5673441
 * http://www.slideshare.net/jahendler/web-obs-www2014
 
+
+# other stuff
+* https://github.com/memect/awesomeport/edit/master/awesome/jahendler-presentation json version 
