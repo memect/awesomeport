@@ -1,0 +1,175 @@
+[
+    {
+        "description": "my keynote at the Strata Conference in February 2013.", 
+        "hashtags": "presentation,video",
+        "title": "Broad Data", 
+        "url": "http://www.youtube.com/watch?v=Cob5oltMGMc"
+    }, 
+    {
+        "description": "My WIMS11 keynote: (about 1 hr)", 
+        "hashtags": "presentation,video",
+        "title": "The Semantic Web 10 Year Update", 
+        "url": "http://videolectures.net/wims2011_hendler_update/"
+    }, 
+    {
+        "description": "(6 min).",
+        "hashtags": "presentation,video",
+        "title": "My most popular talk - the Semantic Web Layercake all in rhyme (ISWC 2009)",
+        "url": "http://www.youtube.com/watch?v=Pv9fpW6bhdo"
+    }, 
+    {
+        "description": "(5 min).", 
+        "hashtags": "presentation,video",
+        "title": "My presentation at the World Economic Forum (Dalian 2009) on engineering the future of the Web", 
+        "url": "http://www.youtube.com/watch?v=X4Rot15JFZc"
+    }, 
+    {
+        "description": "(40 min)", 
+        "hashtags": "presentation,video",
+        "title": "An introduction to the Semantic Web from ISWC 2008", 
+        "url": "http://videolectures.net/iswc08_hendler_ittsw/"
+    }, 
+    {
+        "description": "(about 15 min)", 
+        "hashtags": "presentation,video",
+        "title": "An interview from WWW 2006", 
+        "url": "http://www.ecs.soton.ac.uk/podcasts/video.php?id=54"
+    }, 
+
+
+
+
+    {
+        "description": "[in ppt] a talk at WIMS11 in Norway, updates my 2010 status talk.[~15MB]", 
+        "hashtags": "presentation,slides", 
+        "title": "Semantic Web: 10 year update", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/WIMS11-2011.pdf"
+    }, 
+    {
+        "description": "[In PDF] a humorous dinner speech (in rhyme) presented at the 2009 Dagstuhl Semantic Web conference (#swdag2009 on twitter).",
+        "hashtags": "presentation,slides", 
+        "title": "A light look at LayerCake", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/LayercakeDagstuhl-share.pdf"
+    }, 
+    {
+        "description": "[In PPT] My 15 slides for a 5 minute Pecha Kuchatalk at the World Economic Forum - Meeting of the New Champions in Dalian China (Sept 2009) -note: this is about a 12M file.", 
+        "hashtags": "presentation,slides", 
+        "title": "Engineering the Future Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/Dalian.ppt"
+    },
+    {
+        "description": "[In PDF] my keynote from the International Conference on Web Engineering (ICWE-2009) - an extended version of the Dev Day talk below. From June, 2009.", 
+        "hashtags": "presentation,slides", 
+        "title": "The Semantic Web: Lighter, Faster, Easier", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/ICWE-2009-faster.pdf"
+    }, 
+    {
+        "description": "[In PDF] my 2009 Developers Day talk from WWW2009 (longer version coming later in '09) - the latest in the \"a little semantics goes a long way\" series of talks.", 
+        "hashtags": "presentation,slides", 
+        "title": "Faster, Lighter, Easier", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/WWW2009-DevDay.pdf"
+    }, 
+    {
+        "description": "[in PDF] Presented at IADIS 2008 - a challenge to the agents community.", 
+        "hashtags": "presentation,slides", 
+        "title": "Where are all the Intelligent Agents?", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/Hendler-IADIS.pdf"
+    }, 
+    {
+        "description": "[in PDF} At the Oxford Sumemr School, 2008, I presented a variant of the talk below, and added some research challenges that arise from the new view of ontologies on the Web. These are the slides with those challenges.", 
+        "hashtags": "presentation,slides", 
+        "title": "Research Challenges", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/ResearchChallenges.pdf"
+    }, 
+    {
+        "description": "[in PDF] an attempt at showing why \"informal\" ontologies are crushing formal ontologies in practice, and why this is a good and interesting thing.",
+        "hashtags": "presentation,slides", 
+        "title": "Minds and Society Summer School 2008", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/MindsSocietySummer08.pdf"
+    }, 
+    {
+        "description": "[in PDF] A talk about how different models of ontology are causing great confusion on the Semantic Web.", 
+        "hashtags": "presentation,slides", 
+        "title": "Semantic Technology 2008: Fellowship of the (Semantic) Web - The Two Towers.", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/SemTech2008-2Towers.pdf"
+    }, 
+    {
+        "description": "[in PDF] Joint keynote by me and Ora Lassila at the 2006 Semantic Technologies Conference.", 
+        "hashtags": "presentation,slides", 
+        "title": "SW@5:Current Status and Future Promise of the Semantic Web.", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/SemTech2006-keynote.pdf"
+    }, 
+    {
+        "description": "[in PDF] my keynote talk from XML 2005. Discusses the opportunity for cooperation between XML and the Semantic Web (RDF, RDFS, OWL). (Nov 15, 2005)", 
+        "hashtags": "presentation,slides", 
+        "title": "From Atoms to OWLs: The new ecology of the WWW", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/XML2005Keynote.pdf"
+    }, 
+    {
+        "description": "[in PDF] Robert Engelmore Memorial Lecture delivered at AAAI 2005, July, 2005. An explanation of the Semantic Web aimed at the applied AI community.", 
+        "hashtags": "presentation,slides", 
+        "title": "Knowledge is Power: the view from the Semantic Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/engelmore.pdf"
+    }, 
+    {
+        "description": "[in PDF] a talk on the relation between Sem Web technologies and the practice of science. This version is from a talk at Harvard in December, 2005.",
+        "hashtags": "presentation,slides", 
+        "title": "Science and the Semantic Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/Harvard-IIC-05.pdf"
+    }, 
+    {
+        "description": "[in PDF] Presented at Ohio State University January 2005, and other venues thereafter.", 
+        "hashtags": "presentation,slides", 
+        "title": "The Policy Aware Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/PolicyAware.pdf"
+    }, 
+    {
+        "description": "[in PPT] Presented at various meetings summer 2004 (last update July 2004).", 
+        "hashtags": "presentation,slides", 
+        "title": "Introduction to the Semantic Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/PictIntro.ppt"
+    }, 
+    {
+        "description": "[in HTML] Keynote from International Semantic Web Conference - Florida, USA - Oct, 2003. (Html slides - thanks to Mike Dean).", 
+        "hashtags": "presentation,slides", 
+        "title": "On Beyond Ontology",
+        "url": "http://iswc2003.semanticweb.org/hendler_files/v3_document.htm"
+    }, 
+    {
+        "description": "[in PDF] this is a talk about the Semantic Web and its potential for enpowering scientists and creating new interdisciplinary methodologies - also some challenges to grid computing (Semantic Grid as it's called in the UK). It extends the ideas presented in Science and the Semantic Web. (September, 2003)",
+        "hashtags": "presentation,slides", 
+        "title": "Keynote talk from UK E-science All hands meeting",
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/escience.pdf"
+    }, 
+
+    {
+        "description": "[in PPT] This is a short set of slides which gives a quick overview of the Web Ontology Language (OWL) and some possibilities for the future use of Semantic Web technologies. It updates some of the slides in the more generic talk (listed below). November, 2002.",
+        "hashtags": "presentation,slides", 
+        "title": "Short talk from ASIST 02", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/ASIST02.ppt"
+    }, 
+    {
+        "description": "[in PPT] This is the base set of slides from which I generally base my talks. Last updated - August 2002.",
+        "hashtags": "presentation,slides", 
+        "title": "Introducing the Semantic Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/SWEO-talk.ppt"
+    }, 
+    {
+        "description": "[in PPT] This talk is aimed at an Artificial Intelligence audience - it explains how the Semantic Web will change the face of AI as it makes it relevant to the world at large. (April 2002)",
+        "hashtags": "presentation,slides", 
+        "title": "Talk presented at Knowledge Representation 2002",
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/kr-talk.ppt"
+    }, 
+    {
+        "description": "[in PPT] This talk was presented at the European Knowledge Acquisition Workshop (Oct 2002).",
+        "hashtags": "presentation,slides", 
+        "title": "Knowledge Acquisition on the Semantic Web", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/EKAW02.ppt"
+    }, 
+    {
+        "description": "[in PDF] was held at the National Science Foundation in November, 2002. These are my slides from my panel presentation on the Semantic Web for e-Science.", 
+        "hashtags": "presentation,slides", 
+        "title": "Symposium on Knowledge Environments for Science", 
+        "url": "http://www.cs.rpi.edu/~hendler/presentations/NSF.pdf"
+    }
+]
