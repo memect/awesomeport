@@ -1,23 +1,28 @@
-# youtube
-https://www.youtube.com/watch?v=GAlB87LgrGg
+# youtube (11)
+http://www.youtube.com/watch?v=GAlB87LgrGg  
 
-https://www.youtube.com/watch?v=2NiszK5jEUY
+http://www.youtube.com/watch?v=2NiszK5jEUY
 
-https://www.youtube.com/watch?v=3Ap5FsxvjTQ
+http://www.youtube.com/watch?v=3Ap5FsxvjTQ
 
-https://www.youtube.com/watch?v=yoZYOIlSdPY
+http://www.youtube.com/watch?v=5aPR96DxcMM
 
-https://www.youtube.com/watch?v=Rg1k2sScQ1o
+http://www.youtube.com/watch?v=Cob5oltMGMc
 
-https://www.youtube.com/watch?v=oKiXpO2rbJM
+http://www.youtube.com/watch?v=GuDCT5Ss5a8
 
-https://www.youtube.com/watch?v=5aPR96DxcMM
+http://www.youtube.com/watch?v=oKiXpO2rbJM
 
-https://www.youtube.com/watch?v=GuDCT5Ss5a8
+http://www.youtube.com/watch?v=Pv9fpW6bhdo
 
-https://www.youtube.com/watch?v=2NiszK5jEUY
+http://www.youtube.com/watch?v=Rg1k2sScQ1o
 
-# slideshare
+http://www.youtube.com/watch?v=X4Rot15JFZc
+
+http://www.youtube.com/watch?v=yoZYOIlSdPY
+
+
+# slideshare (22)
 http://www.slideshare.net/jahendler/semantic-web-the-inside-story
 
 http://www.slideshare.net/jahendler/facilitating-web-science-collaboration-through-semantic-markup-35137375
