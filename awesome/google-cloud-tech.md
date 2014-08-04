@@ -4,7 +4,8 @@ https://speakerdeck.com/bgoldy/google-cloud-platform-north-america-dev-roadshow-
 
 http://static.googleusercontent.com/media/research.google.com/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf  Storage Architecture and Challenges by Andrew Fikes at Google Faculty Summit 2010
 
-http://queue.acm.org/detail.cfm?id=1594206
+http://queue.acm.org/detail.cfm?id=1594206 GFS: EVOLUTION ON FAST-FORWARD
+A DISCUSSION BETWEEN KIRK MCKUSICK AND SEAN QUINLAN ABOUT THE ORIGIN AND EVOLUTION OF THE GOOGLE FILE SYSTEM.
 
 # key technologies
 ## google file system (GFS)
