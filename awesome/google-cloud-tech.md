@@ -49,6 +49,7 @@ http://highscalability.com/blog/2010/9/11/googles-colossus-makes-search-real-tim
 
 
 ## Spanner
+http://en.wikipedia.org/wiki/Spanner_(database)
 
 http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf OSDI2012, Spanner is Google's scalable, multi-version, globally-distributed, and synchronously-replicated database.
 
