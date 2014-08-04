@@ -46,6 +46,8 @@ http://www.theregister.co.uk/2009/08/12/google_file_system_part_deux/
 
 http://www.theregister.co.uk/2010/09/09/google_caffeine_explained/
 
+http://highscalability.com/blog/2010/9/11/googles-colossus-makes-search-real-time-by-dumping-mapreduce.html
+
 
 ## Spanner
 
