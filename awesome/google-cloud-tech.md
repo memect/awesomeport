@@ -59,4 +59,10 @@ http://new.livestream.com/accounts/1545775/osdi12/videos/4646642
 
 
 ## Compute Engine
+http://en.wikipedia.org/wiki/Google_Compute_Engine  Google Compute Engine (GCE) is the Infrastructure as a Service (IaaS) component of Google Cloud Platform which is built on the global infrastructure that runs Google’s search engine, Gmail, YouTube and other services.
+
 https://www.youtube.com/watch?v=43gvHZyPRVk
+
+https://www.youtube.com/watch?v=0-sF5ZWB_FY
+
+http://yourstory.com/2013/12/google-compute-engine-better-than-aws/
