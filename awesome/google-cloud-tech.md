@@ -10,7 +10,7 @@ http://queue.acm.org/detail.cfm?id=1594206 GFS: evolution on fast-forward a disc
 ## google file system (GFS)
 http://en.wikipedia.org/wiki/Google_File_System
 
-http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf SOSP 2003. We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
+http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf SOSP 2003. We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
 
 http://www.cs.rochester.edu/~sandhya/csc256/seminars/GoogleFS.pdf
 
