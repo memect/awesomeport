@@ -1,3 +1,7 @@
+Key readings for 7 classic milestones of Google Cloud platform: GFS, MapReduce, BigTable, Dremel, Colossus, Spanner, Compute Engine. [Resource Cards](http://bigdata.memect.com/?tag=googlecloudtech)
+[!["7 key milestones of Google Cloud Computing Platform"](http://emma.memect.com/t/df0fc2b1627fb9e21e3cb36a611b250d641161cd21b747d7fc9ba900d2ff8d93)] (http://bigdata.memect.com/?tag=googlecloudtech) 
+
+
 # overview
 
 https://speakerdeck.com/bgoldy/google-cloud-platform-north-america-dev-roadshow-keynote by Brian Goldfarb, 2014 keynote address in Seattle and Vancouver as part of the Google Cloud Platform Developer Roadshow
