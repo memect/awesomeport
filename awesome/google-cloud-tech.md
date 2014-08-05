@@ -7,6 +7,7 @@ Abstract: Key readings for 7 classic milestones of Google Cloud platform: GFS, M
 # Overview
 
 https://speakerdeck.com/bgoldy/google-cloud-platform-north-america-dev-roadshow-keynote by Brian Goldfarb, 2014 keynote address in Seattle and Vancouver as part of the Google Cloud Platform Developer Roadshow
+by Brian Goldfarb https://twitter.com/bgoldy
 
 http://static.googleusercontent.com/media/research.google.com/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf  Storage Architecture and Challenges by Andrew Fikes at Google Faculty Summit 2010
 
@@ -68,6 +69,7 @@ http://new.livestream.com/accounts/1545775/osdi12/videos/4646642
 http://en.wikipedia.org/wiki/Google_Compute_Engine  Google Compute Engine (GCE) is the Infrastructure as a Service (IaaS) component of Google Cloud Platform which is built on the global infrastructure that runs Google’s search engine, Gmail, YouTube and other services.
 
 https://www.youtube.com/watch?v=43gvHZyPRVk
+by Brian Dorsey https://twitter.com/briandorsey
 
 https://www.youtube.com/watch?v=0-sF5ZWB_FY
 
