@@ -4,7 +4,7 @@ Abstract: Key readings for 7 classic milestones of Google Cloud platform: GFS, M
 [!["7 key milestones of Google Cloud Computing Platform"](http://emma.memect.com/t/df0fc2b1627fb9e21e3cb36a611b250d641161cd21b747d7fc9ba900d2ff8d93)] (http://bigdata.memect.com/?tag=googlecloudtech) 
 
 
-# overview
+# Overview
 
 https://speakerdeck.com/bgoldy/google-cloud-platform-north-america-dev-roadshow-keynote by Brian Goldfarb, 2014 keynote address in Seattle and Vancouver as part of the Google Cloud Platform Developer Roadshow
 
@@ -12,7 +12,7 @@ http://static.googleusercontent.com/media/research.google.com/en/us/university/r
 
 http://queue.acm.org/detail.cfm?id=1594206 GFS: evolution on fast-forward a discussion between Kirk McKusick and Sean Quinlan about the origin and evolution of the google file system.
 
-# key technologies
+# Key milestones
 ## google file system (GFS)
 http://en.wikipedia.org/wiki/Google_File_System
 
@@ -22,7 +22,7 @@ http://www.cs.rochester.edu/~sandhya/csc256/seminars/GoogleFS.pdf
 
 http://web.eecs.umich.edu/~mozafari/fall2013/eecs584/lecture05-b.pdf
 
-## map reduce
+## MapReduce
 http://en.wikipedia.org/wiki/MapReduce
 
 http://static.googleusercontent.com/media/research.google.com/es/us/archive/mapreduce-osdi04.pdf  OSDI 2004. MapReduce is a programming model and an associated implementation for processing and generating large data sets.
@@ -31,7 +31,7 @@ https://sites.google.com/site/mriap2008/lectures  a course offered by Google (20
 
 http://research.google.com/archive/mapreduce-osdi04-slides/index.html
 
-## big table
+## BigTable
 http://en.wikipedia.org/wiki/BigTable
 
 http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf  OSDI 2006. Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size: petabytes of data across thousands of commodity servers.
