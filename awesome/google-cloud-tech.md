@@ -1,6 +1,6 @@
-# Awesome Moments of Google Cloud
+# Awesome Google Cloud Technology
 
-Abstract: Key readings for 7 classic milestones of Google Cloud platform: GFS, MapReduce, BigTable, Dremel, Colossus, Spanner, Compute Engine. View [visual resource cards](http://bigdata.memect.com/?tag=googlecloudtech)
+Abstract: On Github, a list of classical readings for 7 milestones of Google Cloud technology: GFS, MapReduce, BigTable, Dremel, Colossus, Spanner, Compute Engine. View [visual resource cards](http://bigdata.memect.com/?tag=googlecloudtech). Links to the original papers and related slides/videos/technical-reviews are included. The image attached is borrowed from Brian Goldfarb's keynote address in the 2014 Google Cloud Platform Developer Roadshow, also see technical review by Craig McLuckie, Martin Gannholm in Google I/O 2012. A 4-minute short video by Brian Dorsey is highly recommended to learn the core concepts.
 [!["7 key milestones of Google Cloud Computing Platform"](http://emma.memect.com/t/df0fc2b1627fb9e21e3cb36a611b250d641161cd21b747d7fc9ba900d2ff8d93)] (http://bigdata.memect.com/?tag=googlecloudtech) 
 
 
