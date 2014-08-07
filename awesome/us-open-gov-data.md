@@ -22,9 +22,9 @@ http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/  Trans
 
 ## industrial studies 
 
-http://innovationinsights.wired.com/insights/2014/07/quiet-revolution-open-data-transforming-citizen-government-interaction/
+http://innovationinsights.wired.com/insights/2014/07/quiet-revolution-open-data-transforming-citizen-government-interaction/  The Quiet Revolution: Open Data Is Transforming Citizen-Government Interaction, BY MAURY BLACKMAN, 07.30.14
 
-http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information
+http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information  McKinsey and Company recently released a study that found in seven sectors alone open data could generate more than $3 trillion a year in additional value. October 2013
 
 
 ## industrial use-cases
