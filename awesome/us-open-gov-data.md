@@ -15,7 +15,7 @@ http://www.slideshare.net/jahendler/rpi-research-in-linked-open-government-syste
 ## publications
 http://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf U.S. OPEN DATA ACTION PLAN, May 9, 2014
 
-http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/
+http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/  Transparency and Open Government, 2009
 
 
 # learn commercial value
@@ -34,7 +34,7 @@ http://www.city-data.com/  commercialized open government data
 
 https://www.opengov.com/  works with local governments to visualize their budgetary data for the public, received $15 million in funding earlier this year
 
-http://enigma.io/  Quickly search and analyze billions of public records published by governments, companies and organizations.
+http://enigma.io/  Quickly search and analyze billions of public records published by governments, companies and organizations. 
 
 
 
