@@ -15,6 +15,9 @@ http://www.slideshare.net/jahendler/rpi-research-in-linked-open-government-syste
 ## publications
 http://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf U.S. OPEN DATA ACTION PLAN, May 9, 2014
 
+http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/
+
+
 # learn commercial value
 
 ## industrial studies 
