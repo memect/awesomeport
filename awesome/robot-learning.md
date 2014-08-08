@@ -2,13 +2,15 @@
 
 Apply machine learning technique in robot control to improve stability and enhance responsiveness. 
 
+https://github.com/memect/awesomeport/blob/master/awesome/robot-learning.md
 
-search keywords: Machine Learning for Robotics, robot learning
 
 # overview
 http://en.wikipedia.org/wiki/Robot_learning
+
 http://en.wikipedia.org/wiki/Adaptive_control
 
+search keywords: Machine Learning for Robotics, robot learning
 
 
 # groups and people
