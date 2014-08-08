@@ -1,4 +1,6 @@
 # Awesome Python Tools for Neural Networks
+[resource list](http://python.memect.com/?tag=NeuralNetwork)
+
 https://github.com/memect/awesomeport/blob/master/awesome/python-neural-networks.md
 
 ## from python wiki
