@@ -1,4 +1,6 @@
 # Awesome Python Tools for Neural Networks
+[![](http://python.memect.com/wp-content/uploads/2014/08/q2LSKrtPzI4BPkIk2nwbIpN0XJovLKxboJvdjgcRfRCQ8SUY7EcejnhWbsVNHciX_46ced78af20bde21ceaa45683ab4dae536866e2062d93db867af4a9db7d16d6b.jpeg)](http://python.memect.com/?tag=NeuralNetwork)
+
 [resource list](http://python.memect.com/?tag=NeuralNetwork)
 
 https://github.com/memect/awesomeport/blob/master/awesome/python-neural-networks.md
