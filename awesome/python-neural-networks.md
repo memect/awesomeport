@@ -20,17 +20,25 @@ http://pyann.sourceforge.net/  A Python framework to build artificial neural net
 
 
 ## from github
-https://github.com/hannes-brt/hebel   hot
+https://github.com/hannes-brt/hebel hot   
+![](http://python.memect.com/wp-content/uploads/2014/08/en4DEP2URLjMjO1sxotd6tPsQ1W76vJUvH2Dn20bli9BRd1kBi6Kq5OqB4xvaP4t_31eb35b5a067082e0d08e8c34899be213b07e855879c27fc616a3af4d5d239b6.jpeg)
 
 https://github.com/nitishsrivastava/deepnet  hot
+![](http://python.memect.com/wp-content/uploads/2014/08/mSsZXMqPigVUHSkQUMcRBg1Y44LrdwscsnYtdPhKgCvV36CKotxYwMthZU7Y8plw_8883452614db56dd0d7a03aa4b11b7749ce5819023061c9611211ab1bde8ff11.jpeg)
 
 
 ## other
-http://www.pybrain.org/
+http://www.pybrain.org/  
+PyBrain is a modular Machine Learning Library for Python. Its goal is to offer flexible, easy-to-use yet still powerful algorithms for Machine Learning Tasks and a variety of predefined environments to test and compare your algorithms.PyBrain is short for Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library. In fact, we came up with the name first and later reverse-engineered this quite descriptive "Backronym".
 
 http://deeplearning.net/software/theano/
+Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. 
 
 http://neuralensemble.org/PyNN/
+PyNN (pronounced 'pine') is a simulator-independent language for building neuronal network models.
+In other words, you can write the code for a model once, using the PyNN API and the Python programming language, and then run it without modification on any simulator that PyNN supports (currently NEURON, NEST, PCSIM and Brian).
+
 
 # articles
 http://www.ibm.com/developerworks/library/l-neural/
+An introduction to neural networks, Pattern learning with the back-propagation algorithm
