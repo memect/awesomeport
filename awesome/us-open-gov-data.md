@@ -1,5 +1,9 @@
 # Awesome US Open Government Data
-https://github.com/memect/awesomeport/blob/master/awesome/us-open-gov-data.md
+[![US Open Government Data](http://bigdata.memect.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-07-at-5.04.49-PM.png)](http://bigdata.memect.com/?tag=opengovdataus)
+
+[resource list](http://bigdata.memect.com/?tag=opengovdataus)
+
+https://github.com/memect/awesomeport/blob/master/awesome/us-open-gov-data.md 
 
 # overview
 http://www.data.gov/  The home of the U.S. Government’s open data
