@@ -8,6 +8,8 @@ https://github.com/memect/awesomeport/blob/master/awesome/us-open-gov-data.md
 # overview
 http://www.data.gov/  The home of the U.S. Government’s open data
 
+http://www.w3.org/DesignIssues/GovData.html  by Tim Berners-Lee, 2009
+
 ## presentations
 
 http://www.slideshare.net/jeanneholm1/iswc-2012-keynote
