@@ -21,9 +21,11 @@ http://pyann.sourceforge.net/  A Python framework to build artificial neural net
 
 ## from github
 https://github.com/hannes-brt/hebel hot   
+
 ![](http://python.memect.com/wp-content/uploads/2014/08/en4DEP2URLjMjO1sxotd6tPsQ1W76vJUvH2Dn20bli9BRd1kBi6Kq5OqB4xvaP4t_31eb35b5a067082e0d08e8c34899be213b07e855879c27fc616a3af4d5d239b6.jpeg)
 
 https://github.com/nitishsrivastava/deepnet  hot
+
 ![](http://python.memect.com/wp-content/uploads/2014/08/mSsZXMqPigVUHSkQUMcRBg1Y44LrdwscsnYtdPhKgCvV36CKotxYwMthZU7Y8plw_8883452614db56dd0d7a03aa4b11b7749ce5819023061c9611211ab1bde8ff11.jpeg)
 
 
