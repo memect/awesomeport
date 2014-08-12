@@ -2,6 +2,11 @@
 
 Spark was reported the best according to DB Tsai, Machine Learning Engineer at Alpine Data Labs. 
 
+https://github.com/memect/awesomeport/blob/master/awesome/logical-regression.md -- myself
+
+refernce card list: http://bigdata.memect.com/?tag=logicalRegression
+
+
 ##Spark
 https://spark.apache.org/examples.html
 
