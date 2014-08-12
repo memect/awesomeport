@@ -1,5 +1,6 @@
-#Logical Regression Solutions on Big Data
+#Logical Regression on Big Data
 
+Spark was reported the best according to DB Tsai, Machine Learning Engineer at Alpine Data Labs. 
 
 ##Spark
 https://spark.apache.org/examples.html
