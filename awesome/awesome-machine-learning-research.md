@@ -2,19 +2,20 @@
 
 
 # Overview
-This is an incomplete list of researchers in machine learning field, only a handful of US based professors are included based on 
-
-sources:
+This is an incomplete list of researchers in machine learning field, only a handful of US based professors are included based on the following sources:
 
 http://www.quora.com/Graduate-School/What-are-the-best-graduate-schools-for-studying-machine-learning
 
 http://www.quora.com/Machine-Learning/What-are-the-best-machine-learning-research-groups-in-Europe
 
-http://www.ohio.edu/people/starzykj/network/Resources/UseSites/Research/ai_rs_learn.htm
+http://jmlr.csail.mit.edu/editorial-board.html
 
-Keynote speakers of ICML, KDD 
+http://www1.cs.columbia.edu/~jebara/6772/platforms.html
 
-Microsoft Research Faculty Summit:  http://research.microsoft.com/en-us/events/fs2013/bios.aspx
+
+Keynote speakers in ICML, KDD 
+
+Microsoft Research Faculty Summit:  http://research.microsoft.com/en-us/collaboration/about/summits.aspx
 
 
 # US
@@ -35,7 +36,14 @@ Dr. Eric Xing is an associate professor in the School of Computer Science at Car
 Stanford has several prominent researchers 
 
 http://cs.stanford.edu/people/ang/ 
-Andrew Ng focuses his research is in machine learning and artificial intelligence, with an emphasis on deep learning, which uses very large-scale cortical (brain) simulations. His deep learning methods have achieved state-of-the-art performance in many applications, including ones in images, video, audio, and text/natural language processing (NLP). He also founded and led Google's deep learning team, which built a massive-scale artificial neural network (trained on 16,000 CPU cores), that learned from unlabeled YouTube videos to detect high-level concepts such as cats. In 2011, he taught an online machine learning class to more than 100,000 students, leading to the founding Coursera, which partners with top universities to offer free online courses. With 62 university partners, more than 300 courses, and more than 3 million students, Coursera is today by far the world's largest MOOC (Massive Open Online Courses) platform.
+Andrew Ng is Coursera's Chairman of the Board, and acts as Chief Evangelist. He also serves as Chief Scientist of Baidu, a Chinese language search engine. Previously, Andrew served as an Associate Professor of Computer Science at Stanford University and was the Director of the Stanford Artificial Intelligence Lab, the main AI research organization at Stanford, with 15 professors and about 150 students/post docs. In 2008, together with SCPD he started SEE (Stanford Engineering Everywhere), Stanford's first major attempt at free, online distributed education, which made publicly available about a dozen Stanford engineering classes. Over a million people have viewed SEE's videos. At Stanford, he also led the development of the OpenClassroom and the ml-class/db-class online education platforms, which were the precursor to the Coursera platform. In Fall 2011, he was the instructor of ml-class, a Machine Learning class that was one of Stanford's first massive online courses, and had an enrollment of over 100,000 students.
+In addition to his work on online education, Ng also works on machine learning, specifically on building AI systems via large scale brain simulations. His previous work includes autonomous helicopters, the STanford AI Robot (STAIR) project, and ROS (the most widely used open-source robotics software platform today). Ng is the author or co-author of over 150 published papers in machine learning, and his group has won best paper/best student paper awards at ICML, ACL, CEAS, 3DRR. He is a recipient of the Alfred P. Sloan Fellowship, and the 2009 IJCAI Computers and Thought award, one of the highest honors in AI."
+
+
+http://ai.stanford.edu/~koller/
+Daphne Koller is the President of Coursera, leading the growth and nurturing of Coursera's partnerships with universities. She is also the Rajeev Motwani Professor in the Computer Science Department at Stanford University and the Oswald Villard University Fellow in Undergraduate Education. Her main research interest is in developing and using machine learning and probabilistic methods to model and analyze complex domains. She is the author of over 180 refereed publications, which have appeared in venues that include Science, Cell, and Nature Genetics (her H-index is over 80).
+She also has a long-standing interest in education. She founded the CURIS program, the Stanford Computer Science Department's undergraduate summer internship program, and the Biomedical Computation major at Stanford. She pioneered in her classroom many of the ideas that are key to Stanford's massive online education effort. She was awarded the Sloan Foundation Faculty Fellowship in 1996, the ONR Young Investigator Award in 1998, the Presidential Early Career Award for Scientists and Engineers (PECASE) in 1999, the IJCAI Computers and Thought Award in 2001, the MacArthur Foundation Fellowship in 2004, the ACM/Infosys award in 2008, and was inducted into the National Academy of Engineering in 2011. Her teaching was recognized via the Cox Medal for excellence in fostering undergraduate research at Stanford in 2003, and by being named a Bass University Fellow in Undergraduate Education.
+
 
 http://vision.stanford.edu/people.html
 Fei-Fei Li is an associate professor in the Computer Science Department at Stanford University. Her main research interest is in vision, particularly high-level visual recognition. Fei-Fei graduated from Princeton University in 1999 with a physics degree. She received a Ph.D. in electrical engineering from the California Institute of Technology in 2005. Li is a recipient of a Microsoft Research New Faculty award, the Alfred Sloan Fellowship, a number of Google Research Awards, an NSF CAREER award, IEEE CVPR 2010 Best Paper Honorable Mention, and winner of a number of international visual computing competitions. (She publishes under the name L. Fei-Fei.)
