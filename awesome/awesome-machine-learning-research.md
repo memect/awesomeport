@@ -1,10 +1,20 @@
 # Awesome Machine Learning Research
 
+
+# Overview
+This is an incomplete list of researchers in machine learning field, only a handful of US based professors are included based on 
+
+sources:
+
 http://www.quora.com/Graduate-School/What-are-the-best-graduate-schools-for-studying-machine-learning
 
 http://www.quora.com/Machine-Learning/What-are-the-best-machine-learning-research-groups-in-Europe
 
 http://www.ohio.edu/people/starzykj/network/Resources/UseSites/Research/ai_rs_learn.htm
+
+Keynote speakers of ICML, KDD 
+
+Microsoft Research Faculty Summit:  http://research.microsoft.com/en-us/events/fs2013/bios.aspx
 
 
 # US
@@ -18,6 +28,9 @@ Tom Mitchell. Dr. Mitchell works on new learning algorithms, such as methods for
 http://www-2.cs.cmu.edu/~yiming/ 
 Yiming Yang is a professor in the Language Technologies Institute and the Machine Learning Department in the School of Computer Science at Carnegie Mellon University.  Her research has centered on statistical learning methods and their applications to a variety of challenging problems, including text categorization, utility (relevance and novelty) based information distillation from temporally ordered documents, learning to order interrelated prediction tasks, modeling non-deterministic user interactions in multi-session information filtering, personalized active learning for collaborative filtering, personalized email prioritization using social network analysis, cancer prediction based protein/gene expressions in micro-array data, and protein identification from tandem mass spectra.
 
+http://www.cs.cmu.edu/~epxing/
+Dr. Eric Xing is an associate professor in the School of Computer Science at Carnegie Mellon University. His principal research interests lie in the development of machine learning and statistical methodology; especially for solving problems involving automated learning, reasoning, and decision-making in high-dimensional and dynamic possible worlds; and for building quantitative models and predictive understandings of biological systems. Professor Xing received a Ph.D. in Molecular Biology from Rutgers University, and another Ph.D. in Computer Science from UC Berkeley. His current work involves, 1) foundations of statistical learning, including theory and algorithms for estimating time/space varying-coefficient models, sparse structured input/output models, and nonparametric Bayesian models; 2) computational and statistical analysis of gene regulation, genetic variation, and disease associations; and 3) application of statistical learning in social networks, data mining, and vision.
+ 
  
 Stanford has several prominent researchers 
 
