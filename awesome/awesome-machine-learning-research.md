@@ -22,7 +22,7 @@ Microsoft Research Faculty Summit:  http://research.microsoft.com/en-us/collabor
 
 http://www.ml.cmu.edu/people/core-faculty.html  CMU has an entire department of Machine Learning - it's hard to compete with this. 
 
-http://www-2.cs.cmu.edu/~tom/  
+http://www-2.cs.cmu.edu/~tom/
 Tom Mitchell. Dr. Mitchell works on new learning algorithms, such as methods for learning from labeled and unlabeled data. Much of his research is driven by applications of machine learning such as understanding natural language text, and analyzing fMRI brain image data to model human cognition.
 
 
