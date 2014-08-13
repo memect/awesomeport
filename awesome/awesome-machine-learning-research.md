@@ -2,20 +2,15 @@
 
 
 # Overview
-This is an incomplete list of researchers in machine learning field, only a handful of US based professors are included based on the following sources:
+This is an incomplete list of researchers in machine learning field, only a handful of US based professors are included based on (not limit to) the following sources:
 
-http://www.quora.com/Graduate-School/What-are-the-best-graduate-schools-for-studying-machine-learning
-
-http://www.quora.com/Machine-Learning/What-are-the-best-machine-learning-research-groups-in-Europe
-
-http://jmlr.csail.mit.edu/editorial-board.html
-
-http://www1.cs.columbia.edu/~jebara/6772/platforms.html
-
-
-Keynote speakers in ICML, KDD 
-
-Microsoft Research Faculty Summit:  http://research.microsoft.com/en-us/collaboration/about/summits.aspx
+* http://www.quora.com/Graduate-School/What-are-the-best-graduate-schools-for-studying-machine-learning
+* http://www.quora.com/Machine-Learning/What-are-the-best-machine-learning-research-groups-in-Europe
+* http://jmlr.csail.mit.edu/editorial-board.html
+* http://www1.cs.columbia.edu/~jebara/6772/platforms.html
+* http://academic.research.microsoft.com/RankList?entitytype=2&topDomainID=2&subDomainID=6&last=0&start=1&end=100 Microsoft Academic ranking
+* Keynote speakers in ICML, KDD 
+* Microsoft Research Faculty Summit:  http://research.microsoft.com/en-us/collaboration/about/summits.aspx
 
 
 # US
