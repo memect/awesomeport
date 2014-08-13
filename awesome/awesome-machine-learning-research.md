@@ -152,6 +152,9 @@ http://pages.cs.wisc.edu/~jerryzhu/
 Xiaojin (Jerry) Zhu is an associate professor in the Department of Computer Sciences at the University of Wisconsin-Madison. He received his B.S. and M.S. degrees in Computer Science from Shanghai Jiao Tong University in 1993 and 1996, respectively, and a Ph.D. degree in Language Technologies from Carnegie Mellon University in 2005. He was a research staff member at IBM China Research Laboratory from 1996 to 1998. Zhu received the National Science Foundation CAREER Award in 2010. His research interest is in machine learning, with applications in natural language processing, cognitive science, and social media.
 
 
+http://www.cs.princeton.edu/~schapire/
+Robert Schapire received his ScB in math and computer science from Brown University in 1986, and his SM (1988) and PhD (1991) from MIT under the supervision of Ronald Rivest. After a short post-doc at Harvard, he joined the technical staff at AT&T Labs (formerly AT&T Bell Laboratories) in 1991 where he remained for eleven years. At the end of 2002, he became a Professor of Computer Science at Princeton University. His awards include the 1991 ACM Doctoral Dissertation Award, the 2003 Gödel Prize and the 2004 Kanelakkis Theory and Practice Award (both of the last two with Yoav Freund). His main research interest is in theoretical and applied machine learning.
+
 http://www.princeton.edu/~hanliu/people.html
 Han Liu received Joint PhD in Machine Learning and Statistics in 2011 at Carnegie Mellon University. His thesis advisors are John Lafferty and Larry Wasserman. His research interests include Statistics, Machine Learning, Optimization, Probability. He is serving as an Associate Editor of the Electronic Journal of Statistics.
 
