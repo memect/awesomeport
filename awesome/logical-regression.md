@@ -11,6 +11,8 @@ refernce card list: http://bigdata.memect.com/?tag=logicalRegression
 ##Spark
 http://www.slideshare.net/dbtsai/2014-0501-mlor
 
+https://www.dbtsai.com/blog/multinomial-logistic-regression-with-apache-spark/
+
 https://spark.apache.org/examples.html
 
 ## Hadoop
