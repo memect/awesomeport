@@ -1,4 +1,4 @@
-#Logical Regression on Big Data
+#Logistic Regression on Big Data
 
 Spark was reported the best according to the slides presented by DB Tsai, Machine Learning Engineer at Alpine Data Labs. 
 
