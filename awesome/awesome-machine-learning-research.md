@@ -1,7 +1,6 @@
 # Awesome Machine Learning Research
 
 
-# Overview
 This is an incomplete list of researchers in machine learning field, only a handful of US based professors are included based on (not limit to) the following sources:
 
 * http://www.quora.com/Graduate-School/What-are-the-best-graduate-schools-for-studying-machine-learning
@@ -15,6 +14,7 @@ This is an incomplete list of researchers in machine learning field, only a hand
 
 
 # US
+* cardbox: http://bigdata.memect.com/?tag=MachineLearning+people+us
 ## CMU 
 
 http://www-2.cs.cmu.edu/~tom/
