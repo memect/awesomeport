@@ -121,6 +121,7 @@ Xiaojin (Jerry) Zhu is an associate professor in the Department of Computer Scie
 
 ## princeton
 
+
 http://www.cs.princeton.edu/~schapire/
 Robert Schapire received his ScB in math and computer science from Brown University in 1986, and his SM (1988) and PhD (1991) from MIT under the supervision of Ronald Rivest. After a short post-doc at Harvard, he joined the technical staff at AT&T Labs (formerly AT&T Bell Laboratories) in 1991 where he remained for eleven years. At the end of 2002, he became a Professor of Computer Science at Princeton University. His awards include the 1991 ACM Doctoral Dissertation Award, the 2003 Gödel Prize and the 2004 Kanelakkis Theory and Practice Award (both of the last two with Yoav Freund). His main research interest is in theoretical and applied machine learning.
 
@@ -153,6 +154,13 @@ Sethu (Muthu) Muthukrishnan is a Professor of Computer Science at Rutgers Univ. 
 
 http://www.cs.cornell.edu/home/kleinber/
 Jon Kleinberg is the Tisch University Professor in the Computer Science Department at Cornell University. His research focuses on issues at the interface of networks and information, with an emphasis on the social and information networks that underpin the Web and other on-line media. He is a member of the US National Academy of Sciences, the US National Academy of Engineering, and the American Academy of Arts and Sciences, and the recipient of MacArthur, Packard, and Sloan Foundation Fellowships, as well as awards including the Nevanlinna Prize from the International Mathematical Union and the ACM-Infosys Foundation Award in the Computing Sciences. Computational Perspectives on Social Phenomena in On-Line Networks will be Jon’s speech. With an increasing amount of social interaction taking place in the digital domain, and often in public on-line settings, we are accumulating enormous amounts of data about phenomena that were once essentially invisible to us: the collective behavior and social interactions of hundreds of millions of people, recorded at unprecedented levels of scale and resolution. Analyzing this data computationally offers new insights into the design of on-line applications, as well as a new perspective on fundamental questions in the social sciences. We discuss how this perspective can be applied to questions involving network structure and the dynamics of interaction among individuals, with a particular focus on the ways in which evaluation, opinion, and in some cases polarization manifest themselves at large scales in the on-line domain.
+
+
+http://idse.columbia.edu/david-blei
+David Blei will join Columbia in Fall 2014 as a Professor of Computer Science and Statistics.  His research involves probabilistic topic models, Bayesian nonparametric methods, and approximate posterior inference.  He works on a variety of applications, including text, images, music, social networks, user behavior, and scientific data. 
+David earned his Bachelor's degree in Computer Science and Mathematics from Brown University (1997) and his PhD in Computer Science from the University of California, Berkeley (2004).  Before arriving to Columbia, he was an Associate Professor of Computer Science at
+Princeton University.  He has received several awards for his research, including a Sloan Fellowship (2010), Office of Naval Research Young Investigator Award (2011), Presidential Early Career Award for Scientists and Engineers (2011), and Blavatnik Faculty Award (2013). 
+* http://www.cs.princeton.edu/~blei/
 
 
 
